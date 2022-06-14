@@ -11,8 +11,7 @@
         id="hero"
 >
     <h1 class="text-center mb-4 position-relative">
-        Welcome to the first JSTL practica of the Semester
-    </h1>
+Escuela Web    </h1>
     <p class="p-4 position-relative ">
         ontrary to popular belief, Lorem Ipsum is not simply random text. It has
         roots in a piece of classical Latin literature from 45 BC, making it
