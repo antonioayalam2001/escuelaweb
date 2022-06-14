@@ -97,7 +97,7 @@ public class CategoriasServlet extends HttpServlet {
             File report;
             byte[] b ;
 
-            report = new File(getServletConfig().getServletContext().getRealPath("reportes/categoria.jasper"));
+            report = new File(getServletConfig().getServletContext().getRealPath("reportes/reporteC.jasper"));
 
             b = JasperRunManager.runReportToPdf(report.getPath(),null,conn);
 
