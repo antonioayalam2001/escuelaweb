@@ -15,6 +15,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="./CategoriasServlet?accion=listaDeCategorias">Full Category List</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./CategoriasServlet?accion=verReporte">Watch Report</a>
+                </li>
 <%--                Article Section--%>
                 <li class="nav-item">
                     <a class="nav-link" href="./ArticuloS?accion=list">List Articles</a>
